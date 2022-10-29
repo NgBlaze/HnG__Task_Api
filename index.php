@@ -7,10 +7,10 @@ header('Access-Control-Allow-Methods: GET, POST');
 
 header("Access-Control-Allow-Headers: X-Requested-With");
 
-    $slackusername = "Goons";
+    $slackusername = "Blaze";
     $backend = "true";
-    $age = "21";
-    $bio = "PHP backend developer with Networking and  Cybersec experience";
+    $age = "31";
+    $bio = "backend developer";
 
 
 settype($slackusername, "string");
